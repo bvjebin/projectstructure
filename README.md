@@ -45,3 +45,5 @@ projectstructure --root(change it according to your wish in your local)
   
 
 That's all. I am kicking-starting :)
+
+Forgot to mention: Remove .git directory at projectstructure directory to get rid of git from the directory.
