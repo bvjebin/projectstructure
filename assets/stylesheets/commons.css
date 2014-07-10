@@ -1,0 +1,10 @@
+/* Some common alied classes */
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.w100 {
+	width: 100%;
+}
