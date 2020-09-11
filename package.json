@@ -19,7 +19,7 @@
   "homepage": "https://github.com/bvjebin/projectstructure#readme",
   "dependencies": {
     "lodash": "^4.17.13",
-    "node-fetch": "^2.2.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "jest": "^23.6.0"
